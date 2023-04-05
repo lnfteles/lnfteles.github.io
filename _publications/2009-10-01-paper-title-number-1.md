@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Bases de Riesz e séries de Fourier não harmônicas"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This material is an introduction (in portuguese) to nonharmonic Fourier series.'
+date: 2023-04-10
+paperurl: 'http://academicpages.github.io/files/Bases_de_Riesz.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Projeto de Iniciação Científica sobre bases de Riesz e séries de Fourier não harmônicas.
+Research project (in portuguese) about Riesz bases and nonharmonic Fourier series. This project wasn't published, hence there is no recommended citation format.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+This project was realized with financial support from FAPESP under the grant number 2021/14684-5.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://academicpages.github.io/files/Bases_de_Riesz.pdf)
+
