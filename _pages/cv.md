@@ -15,13 +15,13 @@ Education
 
 Resarch experience
 ======
-* Research project: "Riesz basis and nonharmonic Fourier series"
+* Scientific Initiation Scholarship: "Riesz basis and non-harmonic Fourier series"
   * Escola Politécnica, Universidade de São Paulo
   * Duration: April 2022 - March 2023
   * Advisor: Professor Alexandre Kawano
 
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
