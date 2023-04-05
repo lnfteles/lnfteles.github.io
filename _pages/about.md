@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am an undergraduate student on Applied Mathematics at the University of São Paulo in Brazil. My main research interests currently are in Functional Analysis and Operator Theory. That being said I'm very much open to explore any other math-related area.
+I am an undergraduate student of Applied Mathematics at the University of São Paulo in Brazil. My main research interests currently are Functional Analysis and Operator Theory. That being said I'm very much open to explore any other math-related area.
