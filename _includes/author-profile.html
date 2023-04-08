@@ -109,14 +109,20 @@
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
-      {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
-      {% endif %}
       {% if author.lattes %}
         <li><a href="{{ author.lattes }}"><i class="ai ai-lattes-square ai-fw"></i> CV Lattes</a></li>
       {% endif %}
+      {% if author.orcid %}
+        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+      {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
+      {% endif %}
+      {% if author.mathstodon %}
+        <li><a rel="me" href="https://mathstodon.xyz/@teles"><i class="ai ai-mathstodon-square ai-fw"></i> Mathstodon</a></li>
+      {% endif %}
+      {% if author.mathstackexchange %}
+        <li><a href="{{ author.mathstackexchange }}"><i class="ai ai-mathstackexchange-square ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
