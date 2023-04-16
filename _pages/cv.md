@@ -16,6 +16,7 @@ Education
 Resarch experience
 ======
 * Scientific Initiation Scholarship: "Riesz basis and non-harmonic Fourier series"
+  * Granting Agency: FAPESP
   * Escola Politécnica, Universidade de São Paulo
   * Duration: April 2022 - March 2023
   * Advisor: Professor Alexandre Kawano
