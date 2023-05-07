@@ -11,5 +11,5 @@ Research project (in portuguese) about Riesz bases and non-harmonic Fourier seri
 
 This project was realized with financial support from FAPESP under the grant number 2021/14684-5.
 
-[Download paper here](http://academicpages.github.io/files/Bases-de-Riesz.pdf)
+[Download paper here](http://lnfteles.github.io/files/Bases-de-Riesz.pdf)
 
