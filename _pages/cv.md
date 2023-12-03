@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics with a qualification in Mathematical Methods, Universidade de São Paulo, 2024 (expected)
+* B.S. in Applied Mathematics with a qualification in Mathematical Methods, Universidade de São Paulo, 2024 (ongoing)
 
 Resarch experience
 ======
@@ -20,7 +20,12 @@ Resarch experience
   * Escola Politécnica, Universidade de São Paulo
   * Duration: April 2022 - March 2023
   * Advisor: Professor Alexandre Kawano
-
+  * 
+* Scientific Initiation Scholarship: "Introduction to spectral theory in Hilbert spaces and applications"
+  * Granting Agency: FAPESP
+  * Instituto de Matemática e Estatística, Universidade de São Paulo
+  * Duration: July 2023 - June 2024
+  * Advisor: Nataliia Goloshchapova
 
 Research
 ======
