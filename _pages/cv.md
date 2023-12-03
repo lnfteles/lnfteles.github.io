@@ -20,7 +20,7 @@ Resarch experience
   * Escola Politécnica, Universidade de São Paulo
   * Duration: April 2022 - March 2023
   * Advisor: Professor Alexandre Kawano
-  * 
+  
 * Scientific Initiation Scholarship: "Introduction to spectral theory in Hilbert spaces and applications"
   * Granting Agency: FAPESP
   * Instituto de Matemática e Estatística, Universidade de São Paulo
