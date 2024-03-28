@@ -1,7 +1,7 @@
 ---
 title: 'The spectrum and bounded self-adjointness'
-date: 2023-09-01
-permalink: /posts/2023/09/the-spectrum-of-linear-operators/
+date: 2024-03-27
+permalink: /posts/2024/03/the-spectrum-of-bounded-self-adjoint-operators/
 tags:
   - Spectral Theory
   - Functional Analysis
