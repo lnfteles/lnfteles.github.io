@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/s4_Ramsey
 venue: "Instituto de Matemática e Estatística, USP"
-date: 2024-04-18
+date: 2024-05-17
 location: "São Paulo, SP, Brazil"
 ---
 
