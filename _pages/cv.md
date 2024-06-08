@@ -19,15 +19,20 @@ Resarch experience
   * Granting Agency: FAPESP
   * Escola Politécnica, Universidade de São Paulo
   * Duration: April 2022 - March 2023
-  * Advisor: Professor Alexandre Kawano
+  * Advisor: Alexandre Kawano
   
 * Scientific Initiation Scholarship: "Introduction to spectral theory in Hilbert spaces and applications"
   * Granting Agency: FAPESP
   * Instituto de Matemática e Estatística, Universidade de São Paulo
-  * Duration: July 2023 - June 2024
+  * Duration: July 2023 - June 2024 (ongoing)
   * Advisor: Nataliia Goloshchapova
 
-Research
+* Undergraduate Thesis: "Combinatorial Methods in Banach Space Theory"
+  * Instituto de Matemática e Estatística, Universidade de São Paulo
+  * Duration: March 2024 - December 2024 (ongoing)
+  * Advisor: Valentin Raphael Henri Ferenczi
+
+Notes
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
