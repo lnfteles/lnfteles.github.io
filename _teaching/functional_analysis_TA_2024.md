@@ -3,12 +3,13 @@ title: "Teaching Assistant: Introduction to Functional Analysis (2024)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Instituto de Matmeática e Estatística, USP"
+venue: "Instituto de Matemática e Estatística, USP"
 date: 2024-06-08
 location: "São Paulo, Brazil"
 ---
-(ONGOING)
 In the first semester of 2024 (February-June) I acted as the Teaching Assistant for professor [Vinícius Morelli](https://www.ime.usp.br/vinimc/) in the course ["Introduction to Functional Analysis"](https://edisciplinas.usp.br/course/view.php?id=116390&section=0#tabs-tree-start) (MAT0334/MAT5721) for both undergraduates and post-graduates.
+
+(ONGOING)
 
 Teaching Assistant responsabilities
 ======
