@@ -1,5 +1,5 @@
 ---
-title: "O Axioma de Martin"
+title: "O Axioma de Martin e algumas consequências"
 collection: Notes
 permalink: /notes/martins-axiom
 excerpt: 'Final assignment for the course "Introduction to Set Theory" (MAT6202)'
