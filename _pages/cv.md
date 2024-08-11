@@ -13,6 +13,14 @@ Education
 ======
 * B.S. in Applied Mathematics with a qualification in Mathematical Methods, Universidade de São Paulo, 2024 (ongoing)
 
+Further Eduaction
+======
+* Course "Topics of Functional Analysis" (120h)
+* Course "Introduction to Set Theory" (120h)
+* Minicourse "Ao infinito e além: do Teorema de Ramsey aos espaços combinatórios" (3h)
+* Minicourse "Topologia: Algumas relações entre combinatória e topologia" (4h)
+* Minicourse "Sistemas dinâmicos: o conjunto de Cantor, o shift, números reais e p-ádicos" (3h)
+
 Resarch experience
 ======
 * Scientific Initiation Scholarship: "Riesz basis and non-harmonic Fourier series"
@@ -24,7 +32,7 @@ Resarch experience
 * Scientific Initiation Scholarship: "Introduction to spectral theory in Hilbert spaces and applications"
   * Granting Agency: FAPESP
   * Instituto de Matemática e Estatística, Universidade de São Paulo
-  * Duration: July 2023 - June 2024 (ongoing)
+  * Duration: July 2023 - June 2024
   * Advisor: [Nataliia Goloshchapova](https://www.ime.usp.br/~nataliia/)
 
 * Undergraduate Thesis: "Combinatorial methods in Banach space theory"
