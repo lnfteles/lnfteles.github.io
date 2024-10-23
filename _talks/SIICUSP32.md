@@ -1,5 +1,5 @@
 ---
-title: "O Teorema de Hilbert-Schmidt"
+title: "Introdução à teoria espectral e aplicações"
 collection: talks
 type: "Poster"
 permalink: /talks/SIICUSP32
