@@ -17,6 +17,7 @@ Further Eduaction
 ======
 * Course "Topics of Functional Analysis" (120h)
 * Course "Introduction to Set Theory" (120h)
+* Course "Model theory and applications" (120h)
 * Minicourse "Ao infinito e além: do Teorema de Ramsey aos espaços combinatórios" (3h)
 * Minicourse "Topologia: Algumas relações entre combinatória e topologia" (4h)
 * Minicourse "Sistemas dinâmicos: o conjunto de Cantor, o shift, números reais e p-ádicos" (3h)
