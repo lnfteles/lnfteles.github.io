@@ -11,4 +11,4 @@ In short we give a brief introduction to Ramsey theory and discuss Ellentuck's t
 
 While these notes have been corrected according to the suggestions of the analyzing comittee, a lot of changes were needed and they still need to be reviewed by my advisor.
 
-[Download here](http://lnfteles.github.io/files/Combinatorial_methods_in_Banach_space_theory.pdf)
+[Download here](http://lnfteles.github.io/files/Combinatorial-methods-in-Banach-space-theory.pdf)
