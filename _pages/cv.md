@@ -38,7 +38,7 @@ Resarch experience
 
 * Undergraduate Thesis: "Combinatorial methods in Banach space theory"
   * Instituto de Matemática e Estatística, Universidade de São Paulo
-  * Duration: March 2024 - December 2024 (ongoing)
+  * Duration: March 2024 - December 2024
   * Advisor: [Valentin Raphael Henri Ferenczi](https://www.ime.usp.br/~ferenczi/)
 
 Notes
