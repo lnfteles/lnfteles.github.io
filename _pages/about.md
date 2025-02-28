@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am an undergraduate student of Applied Mathematics at the University of São Paulo in Brazil. My main research interest currently is Functional Analysis, specially Banach Space Theory and Operator Theory. That being said, I'm very much interested in exploring other math-related areas.
+I am a Master's student of Mathematics at the University of São Paulo, in Brazil. My main research interests currently are Functional Analysis, specially Banach Space Theory and Operator Theory, and Set-Theoretic Topology. That being said, I'm very much interested in exploring other math-related areas.
