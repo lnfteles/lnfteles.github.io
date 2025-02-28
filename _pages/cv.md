@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics with a qualification in Mathematical Methods, Universidade de São Paulo, 2024 (ongoing)
+* B.S. in Applied Mathematics with a major in Mathematical Methods, Universidade de São Paulo (2024)
+* Master's in Mathematics, Universidade de São Paulo (ongoing)
 
 Further Eduaction
 ======
@@ -21,6 +22,7 @@ Further Eduaction
 * Minicourse "Ao infinito e além: do Teorema de Ramsey aos espaços combinatórios" (3h)
 * Minicourse "Topologia: Algumas relações entre combinatória e topologia" (4h)
 * Minicourse "Sistemas dinâmicos: o conjunto de Cantor, o shift, números reais e p-ádicos" (3h)
+* Minicourse "Introdução aos grafos infinitos" (8h)
 
 Resarch experience
 ======
