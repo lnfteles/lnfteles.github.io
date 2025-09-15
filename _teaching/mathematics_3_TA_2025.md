@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-mathematics-iii
 venue: "Centro de Ciências Moleculares, USP"
-date: 2024-09-15
+date: 2025-09-15
 location: "São Paulo, Brazil"
 ---
 For the second semester of 2025 (July-Ongoing) I am the Teaching Assistant for professor [Daniel Levcovitz](https://www.ime.usp.br/daniel.levcovitz/) in the course ["Mathematics III" (CCM0213)](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=CCM0213) for undergraduates of the Bachelor in Molecular Sciences.
