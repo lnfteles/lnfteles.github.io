@@ -7,7 +7,7 @@ venue: "Instituto de Matemática e Estatística, USP"
 date: 2024-12-12
 location: "São Paulo, Brazil"
 ---
-In the second semester of 2024 (July-December) I acted as the Teaching Assistant for professor [Rogério Fajardo](https://www.ime.usp.br/~fajardo/) in the course ["Elements of Set Theory" (MAT0331)]https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0331) for undergraduates.
+In the second semester of 2024 (July-December) I acted as the Teaching Assistant for professor [Rogério Fajardo](https://www.ime.usp.br/~fajardo/) in the course ["Elements of Set Theory" (MAT0331)](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0331) for undergraduates.
 
 Teaching Assistant responsabilities
 ------
@@ -18,7 +18,7 @@ In Brazil we use the term "monitor" for this position, and as the expectations f
 * I did not give any lectures.
 
 
-Topics explored in MAT0331
+Topics explored in the course
 ------
 
 
