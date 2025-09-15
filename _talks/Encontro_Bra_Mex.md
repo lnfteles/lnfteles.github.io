@@ -1,4 +1,4 @@
---
+---
 title: "A Katetov-type construction of the Gurarij space"
 collection: talks
 type: "Poster"
