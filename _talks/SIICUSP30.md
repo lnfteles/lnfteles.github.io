@@ -3,7 +3,7 @@ title: "Bases de Riesz e séries de Fourier não harmônicas"
 collection: talks
 type: "Poster"
 permalink: /talks/siicusp30
-venue: "Escola Politécnica, Universidade de São Paulo"
+venue: "Escola Politécnica, USP"
 date: 2022-09-27
 location: "São Paulo, SP, Brazil"
 ---
