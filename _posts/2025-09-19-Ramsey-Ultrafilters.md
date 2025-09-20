@@ -13,7 +13,7 @@ In other words, for any coloring of the edges of a graph with countable vertices
 
 Ramsey's theorem influenced much of modern mathematics, in set theory, for instance, there are various areas of research which draw inspiration from Ramsey-type results
 (see for instance Halbeisen's book \[2\]), the one which I'd like to discuss today tackles how one might reduce the class of sets which holds an infinite
-homogeneous subset for any choice of $2$-coloring of $[\omega]^2$ from $\{X \subseteq \omega: X \text{ is infinte}\}$ to something "smaller". For our purposes we shall look for
+homogeneous subset for any choice of $2$-coloring of $[\omega]^2$ from ${\\{X \subseteq \omega: X \text{ is infinte}\\}}$ to something "smaller". For our purposes we shall look for
 a [non-principal ultrafilter](https://en.wikipedia.org/wiki/Ultrafilter#Ultrafilter_on_the_power_set_of_a_set) on $\omega$ which satisfies this condition. Formally speaking:
 
 **Definition**: Let $\mathcal{U}$ be a non-principal ultrafilter on $\omega$. 
@@ -22,7 +22,7 @@ The existence of a Ramsey ultrafilter is independent of ZFC, but we can prove it
 interested in presenting a direct proof of the existence of a Ramsey ultrafilter from [Martin's Axiom](en.wikipedia.org/wiki/Martin's_axiom), following the arguments of 
 Booth in his 1970 paper \[1\].
 
-**Theorem**(ZFC+MA): There exists a Ramsey ultrafilter.
+**Theorem** (ZFC+MA): There exists a Ramsey ultrafilter.
 
 **Proof**: 
 
