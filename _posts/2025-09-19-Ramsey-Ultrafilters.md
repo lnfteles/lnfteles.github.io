@@ -5,7 +5,7 @@ permalink: /posts/2025/09/refining-ramseys-theorem-with-ultrafilters/
 tags:
   - Set Theory
   - Ramsey Theory
-----
+---
 
 Ramsey's theorem (in its infinite version) states that given any 2-coloring $\pi:[\omega]^2 \to 2$ of a 
 countably infinite set say, $\omega$, there is an infinite subset $X \subseteq \omega$ such that $\pi([X]^2)$ is constant, in which case we say that $X$ is homogeneous for $\pi$.
