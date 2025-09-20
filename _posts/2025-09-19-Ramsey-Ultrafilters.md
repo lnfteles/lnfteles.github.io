@@ -1,5 +1,5 @@
 ---
-title: 'Refining Ramsey\'s theorem with ultrafilters'
+title: "Refining Ramsey's theorem with ultrafilters"
 date: 2025-09-19
 permalink: /posts/2025/09/refining-ramseys-theorem-with-ultrafilters/
 tags:
