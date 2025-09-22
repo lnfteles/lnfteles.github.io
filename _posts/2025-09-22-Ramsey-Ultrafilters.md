@@ -1,6 +1,6 @@
 ---
 title: "Refining Ramsey's theorem with ultrafilters"
-date: 2025-09-19
+date: 2025-09-22
 permalink: /posts/2025/09/refining-ramseys-theorem-with-ultrafilters/
 tags:
   - Set Theory
@@ -44,9 +44,24 @@ $$\mathcal{D} = { \\{D_\beta: \beta \le 2^{\aleph_0}\\} }\cup { \\{ E_\gamma : \
 
 Then, we will follow the cases bellow for $\alpha$ an ordinal in $2^{\aleph_0}$.
 
-$\alpha=0$) Choose $F_0$
+* $\alpha=0$) Choose some $F_0' \in D_0$ and $F_0 \in E_0$ such that $F_0 \le F_0'$.
+
+* $\alpha$ is a successor ordinal) Let $\alpha = \delta^+$ and choose $F_\alpha' \in D_\alpha$ and $F_\alpha \in E_\alpha$ such that $F_\alpha \le F_\alpha' \le F_\delta$.
+
+* $\alpha$ is a limit ordinal) We have a decreasing chain ${ \\{F_\delta : \delta \in \alpha\\} }$ for some $\alpha \le 2^{\aleph_0}$. We will use MA to find a lower bound to this chain. First
 
 
+
+
+
+(notice we can do this even if $\alpha = 2^{\aleph_0}$ since $2^{\aleph_0}$ is regular and $ .
+
+
+
+
+
+
+## References
 
 \[1\] Booth, D., _Ultrafilters on a countable set_, Annals of Mathematical Logic, Vol. 2 (1), 1-24, 1970.
 
