@@ -48,7 +48,13 @@ Then, we will follow the cases bellow for $\alpha$ an ordinal in $2^{\aleph_0}$.
 
 * $\alpha$ is a successor ordinal) Let $\alpha = \delta^+$ and choose $F_\alpha' \in D_\alpha$ and $F_\alpha \in E_\alpha$ such that $F_\alpha \le F_\alpha' \le F_\delta$.
 
-* $\alpha$ is a limit ordinal) We have a decreasing chain ${ \\{F_\delta : \delta \in \alpha\\} }$ for some $\alpha \le 2^{\aleph_0}$. We will use MA to find a lower bound to this chain. First
+* $\alpha$ is a limit ordinal and $\alpha < 2^\aleph_0$) We have a decreasing chain ${ \\{F_\delta : \delta \in \alpha\\} }$. We will use MA to find a lower bound to this chain: First we define a partial order in which
+
+
+
+* $\alpha= 2^{\aleph_0}$) For this, we simply use what we just proved and the following Lemma of Booth to achieve this:
+  **Lemma** (Booth): Let $(P, \le)$ be a partial order and $\kappa$ a regular cardinal. Then, if every decreasing chain of length less than $\kappa$ has a lower bound, and if
+  $\mathcal{D}$ is a set of at most $\kappa$ dense sets, there is a $\mathcal{D}$-generic set for $P$.
 
 
 
