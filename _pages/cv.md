@@ -16,6 +16,12 @@ Education
 
 Resarch experience
 ======
+* Master's research project: "Isometries on the Gurarij space and stable Fraïssé spaces"
+  * Funding: FAPESP's Master's scholarship 
+  * Instituto de Matemática e Estatística, Universidade de São Paulo
+  * Duration: March 2025 - (Ongoing)
+  * Advisor: [Valentin Raphael Henri Ferenczi](https://www.ime.usp.br/~ferenczi/)
+  
 * Undergraduate Thesis: "Combinatorial methods in Banach space theory"
   * Instituto de Matemática e Estatística, Universidade de São Paulo
   * Duration: March 2024 - December 2024
