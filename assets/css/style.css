@@ -155,6 +155,10 @@
     font-size: 33px;
 }
 
+
+
+
+
 .TableOfContents {
     margin-top: 20px;
     margin-bottom: 40px;
@@ -185,5 +189,28 @@
 }
 
 .TableOfContents a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+.LatexAbstractText a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.LatexAbstractText a:hover {
+    text-decoration: underline;
+}
+
+
+
+.Margins p a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.Margins p a:hover {
     text-decoration: underline;
 }
