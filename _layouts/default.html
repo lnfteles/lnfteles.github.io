@@ -23,9 +23,13 @@
       </div>{% endif %}
 
       
-      <div class="markdown-content">
+      {% if page.url == "/" %}
       {{ content }}
+      {% else %}
+      <div class="markdown-content">
+          {{ content }}
       </div>
+      {% endif %}
 
 
     </div>
