@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <a href="https://www.lnfteles.github.io/">Lucas' webpage</a>
+title: [Lucas' webpage]({{ '/' | relative_url }})
 permalink: /papers/
 ---
 
