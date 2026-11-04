@@ -2,11 +2,10 @@
     font-family: CMR;
     src: url(../fonts/cmuserif_roman_macroman/cmunrm-webfont.woff);
   }
-  @font-face {
+@font-face {
     font-family: CMB;
     src: url(../fonts/cmuserif_bold_macroman/cmunbx-webfont.woff);
   }
-
 
 .LatexTitle{
     font-family: CMR;
@@ -157,7 +156,7 @@
 
 
 
-
+/* Table of contents things: */
 
 .TableOfContents {
     margin-top: 20px;
@@ -193,7 +192,7 @@
 }
 
 
-
+/* Fixing hyperlinks */
 
 .LatexAbstractText a {
     color: inherit;
@@ -213,4 +212,216 @@
 
 .Margins p a:hover {
     text-decoration: underline;
+}
+
+/* ==================================================
+   MARKDOWN CONTENT STYLING
+   ================================================== */
+
+
+/* --------------------------------------------------
+   1. FONTS
+   -------------------------------------------------- */
+
+/* Computer Modern Roman */
+@font-face {
+    font-family: CMR;
+    src: url('../fonts/cmuserif_roman_macroman/cmunrm-webfont.woff')
+         format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Computer Modern Bold */
+@font-face {
+    font-family: CMB;
+    src: url('../fonts/cmuserif_bold_macroman/cmunbx-webfont.woff')
+         format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Register bold as a variant of CMR */
+@font-face {
+    font-family: CMR;
+    src: url('../fonts/cmuserif_bold_macroman/cmunbx-webfont.woff')
+         format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+/* --------------------------------------------------
+   2. GENERAL MARKDOWN CONTENT
+   -------------------------------------------------- */
+
+.markdown-content {
+    font-family: CMR, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-synthesis: style;
+
+    /* Reset figure numbering on each page */
+    counter-reset: figure;
+}
+
+
+/* --------------------------------------------------
+   3. PARAGRAPHS
+   -------------------------------------------------- */
+
+.markdown-content p {
+    font-family: inherit;
+    font-weight: inherit;
+
+    /* Copy the declarations from .BodyText here */
+}
+
+
+/* --------------------------------------------------
+   4. HEADINGS
+   -------------------------------------------------- */
+
+/* Main sections: # Heading */
+
+.markdown-content h1 {
+    font-family: inherit;
+    font-weight: 700;
+
+    /* Copy the declarations from .Section here */
+}
+
+/* Subsections: ## Heading */
+
+.markdown-content h2 {
+    font-family: inherit;
+    font-weight: 700;
+
+    /* Add subsection-specific styling */
+}
+
+/* Third-level headings: ### Heading */
+
+.markdown-content h3 {
+    font-family: inherit;
+    font-weight: 700;
+}
+
+
+/* --------------------------------------------------
+   5. BOLD AND ITALIC
+   -------------------------------------------------- */
+
+.markdown-content strong,
+.markdown-content b {
+    font-weight: 700;
+}
+
+.markdown-content em,
+.markdown-content i {
+    font-style: italic;
+}
+
+
+/* --------------------------------------------------
+   6. IMAGES
+   -------------------------------------------------- */
+
+.markdown-content img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+}
+
+
+/* --------------------------------------------------
+   7. FIGURES AND CAPTIONS
+   -------------------------------------------------- */
+
+.markdown-content figure {
+    margin: 30px auto;
+    text-align: center;
+}
+
+.markdown-content figure img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 8px;
+}
+
+.markdown-content figcaption {
+    font-family: inherit;
+    font-size: 0.9em;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 8px;
+}
+
+
+/* --------------------------------------------------
+   8. ORDERED LISTS
+   -------------------------------------------------- */
+
+.markdown-content ol {
+    font-family: inherit;
+    list-style-type: decimal;
+    padding-left: 2.5em;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.markdown-content ol li {
+    font-family: inherit;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+/* Nested ordered lists */
+
+.markdown-content ol ol {
+    list-style-type: lower-alpha;
+}
+
+.markdown-content ol ol ol {
+    list-style-type: lower-roman;
+}
+
+
+/* --------------------------------------------------
+   9. UNORDERED LISTS
+   -------------------------------------------------- */
+
+.markdown-content ul {
+    font-family: inherit;
+    list-style-type: disc;
+    padding-left: 2.5em;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.markdown-content ul li {
+    font-family: inherit;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+/* Nested unordered lists */
+
+.markdown-content ul ul {
+    list-style-type: circle;
+}
+
+.markdown-content ul ul ul {
+    list-style-type: square;
+}
+
+
+/* --------------------------------------------------
+   10. HYPERLINKS
+   -------------------------------------------------- */
+
+.markdown-content a {
+    font-family: inherit;
 }
