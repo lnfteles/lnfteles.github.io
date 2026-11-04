@@ -271,10 +271,14 @@
    -------------------------------------------------- */
 
 .markdown-content p {
-    font-family: inherit;
     font-weight: inherit;
-
-    /* Copy the declarations from .BodyText here */
+    font-family: inherit;
+    font-size: 23px;
+    text-align: Left;
+    margin-top: 13px;
+    margin-bottom: 45px;
+    line-height: 125%;
+    column-count: 1;
 }
 
 
@@ -288,7 +292,10 @@
     font-family: inherit;
     font-weight: 700;
 
-    /* Copy the declarations from .Section here */
+    font-size: 33px;
+    text-align: Left;
+    margin-top: 13px;
+    margin-bottom: 20px;
 }
 
 /* Subsections: ## Heading */
@@ -296,8 +303,10 @@
 .markdown-content h2 {
     font-family: inherit;
     font-weight: 700;
-
-    /* Add subsection-specific styling */
+    font-size: 29px;
+    text-align: Left;
+    margin-top: 13px;
+    margin-bottom: 20px;
 }
 
 /* Third-level headings: ### Heading */
