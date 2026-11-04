@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research
-permalink: /research/
+title: <a href="https://www.lnfteles.github.io/">Lucas' webpage</a>
+permalink: /papers/
 ---
 
 # Research
