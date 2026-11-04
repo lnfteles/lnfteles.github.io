@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [Lucas' webpage]({{ '/' | relative_url }})
+title: Lucas' webpage
 permalink: /papers/
 ---
 
