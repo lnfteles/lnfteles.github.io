@@ -441,7 +441,7 @@
 
 /* Inline mathematics */
 .markdown-content mjx-container:not([display="true"]) {
-    font-size: 70%;
+    font-size: 70% !important;
 }
 
 /* Display mathematics */
