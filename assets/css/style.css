@@ -438,3 +438,13 @@
 .markdown-content a {
     font-family: inherit;
 }
+
+/* Inline mathematics */
+.markdown-content mjx-container:not([display="true"]) {
+    font-size: 90%;
+}
+
+/* Display mathematics */
+.markdown-content mjx-container[display="true"] {
+    font-size: 100%;
+}
