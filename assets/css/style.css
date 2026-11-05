@@ -79,7 +79,7 @@
     font-size: 23px;
     text-align: Left;
     margin-top: 13px;
-    margin-bottom: 45px;
+    margin-bottom: 25px;
     line-height: 125%;
     column-count: 1;
 }
@@ -89,7 +89,7 @@
     font-size: 23px;
     text-align: Left;
     margin-top: 13px;
-    margin-bottom: 45px;
+    margin-bottom: 25px;
     line-height: 125%;
     column-count: 2;
 }
@@ -99,7 +99,7 @@
     font-size: 23px;
     text-align: Left;
     margin-top: 13px;
-    margin-bottom: 45px;
+    margin-bottom: 25px;
     line-height: 125%;
     column-count: 3;
 }
@@ -276,7 +276,7 @@
     font-size: 23px;
     text-align: Left;
     margin-top: 13px;
-    margin-bottom: 45px;
+    margin-bottom: 25px;
     line-height: 125%;
     column-count: 1;
 }
@@ -439,12 +439,3 @@
     font-family: inherit;
 }
 
-/* Inline mathematics */
-.markdown-content mjx-container:not([display="true"]) {
-    font-size: 100% !important;
-}
-
-/* Display mathematics */
-.markdown-content mjx-container[display="true"] {
-    font-size: 100%;
-}
