@@ -12,7 +12,7 @@ tags:
 
 Neumann series are series of bounded linear operators of the form 
 
-$$\sum_{k=0}^\infty T^k = I + T + T^2 + ...$$
+$$\sum_{k=0}^\infty T^k = I + |T| + T^2 + ...$$
 
 where $\lvert T\rvert< 1$, $T:X\to X$ and $X$ is a Banach space. When these conditions are met, we get that the operator $\sum_{k=0}^{\infty} T^k$ not only is well-defined and bounded but also has a bounded inverse of the form $(I-T)$. It's inverse gives us a hint at how this concept might be useful for Spectral Theory, that studies operators of the form $T-\lambda I$.
 
