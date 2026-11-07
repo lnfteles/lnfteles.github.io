@@ -265,6 +265,9 @@
     counter-reset: figure;
 }
 
+.markdown-content mjx-container {
+    font-family: MJXZERO, MJXTEX;
+}
 
 /* --------------------------------------------------
    3. PARAGRAPHS
