@@ -1,5 +1,6 @@
 ---
 title: Lucas' webpage
+author: Lucas N. F. Teles
 date: September 2023
 permalink: /posts/2023/09/Neumann-series/
 tags:
