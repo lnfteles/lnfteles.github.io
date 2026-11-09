@@ -11,6 +11,16 @@ tags:
 
 ## Neumann Series
 
+<p style="font-size: 100%;">
+    Inline: $E=mc^2$
+</p>
+
+<div style="font-size: 100%;">
+    $$
+    E=mc^2
+    $$
+</div>
+
 Neumann series are series of bounded linear operators of the form 
 
 $$\sum_{k=0}^\infty T^k = I + |T| + T^2 + ...$$
