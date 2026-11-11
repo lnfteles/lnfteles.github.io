@@ -214,6 +214,35 @@
     text-decoration: underline;
 }
 
+/*   Settings for images in HTML   */
+.html-figure {
+    text-align: center;
+    margin: 30px auto;
+}
+
+.html-figure img {
+    display: block;
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.html-figure figcaption {
+    font-family: inherit;
+    font-size: 0.9em;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 8px;
+}
+
+
+
+
+
+
+
+
 /* ==================================================
    MARKDOWN CONTENT STYLING
    ================================================== */
